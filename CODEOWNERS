@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @JigJoner
+/src/backend/database.py      @JigJoner
+/src/backend/routers/auth.py  @JigJoner
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @JigJoner
